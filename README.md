@@ -22,7 +22,7 @@ As a content creator, I share my coding journey and insights on various platform
 
 I also host a Discord server where you can connect with fellow developers, ask questions, and collaborate on projects:
 
-- **Discord Server**: [Join Here](https://discord.gg/f59ecB9dJ2)
+- **Discord Server**: [Join Here](https://discord.gg/bhBExNpkeR)
 
 ## Get in Touch
 
