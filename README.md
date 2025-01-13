@@ -1,4 +1,3 @@
-```markdown
 # Introduction
 
 Welcome to Eclipse Networks! We are a leading technology company dedicated to providing innovative solutions for game hosting, IT support, and custom services tailored to meet your needs. With our commitment to excellence and a passion for technology, Eclipse Networks is here to help you succeed.
@@ -59,4 +58,5 @@ Stay connected with Eclipse Networks through our social media channels:
 ---
 
 Ready to get started? Explore our offerings and experience the Eclipse Networks difference today!
-```
+
+
